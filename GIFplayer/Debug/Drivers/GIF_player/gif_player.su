@@ -1,0 +1,6 @@
+../Drivers/GIF_player/gif_player.c:3:6:GIF_Player_Init	4	static
+../Drivers/GIF_player/gif_player.c:16:6:GIF_Player_Start	0	static
+../Drivers/GIF_player/gif_player.c:20:6:GIF_Player_Stop	0	static
+../Drivers/GIF_player/gif_player.c:24:6:GIF_Player_Restart	8	static
+../Drivers/GIF_player/gif_player.c:30:6:GIF_Player_SetSpeed	0	static
+../Drivers/GIF_player/gif_player.c:34:6:GIF_Player_Update	24	static

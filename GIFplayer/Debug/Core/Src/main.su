@@ -1,0 +1,4 @@
+../Core/Src/main.c:70:6:playback	8	static
+../Core/Src/main.c:154:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:101:5:main	56	static,ignoring_inline_asm
+../Core/Src/main.c:309:6:Error_Handler	0	static,ignoring_inline_asm
